@@ -16,7 +16,7 @@ driver.find_element_by_xpath('//*[@id="Login"]').click()
 
 # NOTE: Must Authenticate Manually at this point due to security restrictions and close any popup Lightning ads
 
-# Dummy URLs
+# Dummy URLs - replace with a list of urls for the Docusign Status Objects (salesforce links) you wish to void
 urls = ['https://na8.salesforce.com/a45C0000000F2fh','www.google.com','https://na8.salesforce.com/a45C0000000F2fh','https://na8.salesforce.com/006C0000018ncSq','https://na8.salesforce.com/a45C0000000F2fh']
 
 void_message = 'This document is incomplete and has expired. If you have completed a separate docusign agreement then this message can be ignored.'
