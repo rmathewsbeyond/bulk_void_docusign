@@ -1,4 +1,4 @@
-# Bulk Void Docusign Envelopes using Docusign for salesforce
+# Bulk Void Docusign Envelopes using Docusign for Salesforce
 
 This script uses selenium to impersonate a user who is voiding the docusign status object records in salesforce.
 
